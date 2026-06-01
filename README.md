@@ -45,66 +45,6 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🐍 SNAKE ANIMATION: Contribution graph eaten by snake         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME: Animated terminal code block                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00C2FF" width="100%"/>
-
-<h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;
-About Me
-</h2>
-
-
-```typescript
-class BackendDeveloper {
-  name       = "Shawn Nguyen";
-  role       = "Backend Developer";
-  education  = "Information Technology @ PTIT (3rd year)";
-  
-  languages  = ["TypeScript", "Java", "Python", "C++"];
-  
-  backend    = {
-    primary:   ["NestJS", "Node.js"],
-    learning:  ["Spring Boot", "Express"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    cache:     ["Redis"],
-    queue:     ["BullMQ", "Apache Kafka"],
-    orm:       ["Prisma"]
-  };
-  
-  devops     = ["Docker", "Kubernetes", "AWS", "GitHub Actions"];
-  
-  architecture = [
-    "Microservices", "Event-Driven",
-    "CQRS", "Domain-Driven Design"
-  ];
-
-  motto = () => "Build it right, build it resilient 🔥";
-}
-```
-
-<br clear="both">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⚡ TECH STACK: Animated skill icons with category headers     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -118,6 +58,19 @@ Tech Arsenal
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=💻+Languages;🚀+Backend+Frameworks;🗄️+Databases+%26+Storage;⚡+Queue+%26+Messaging;☁️+Cloud+%26+DevOps;🛠+Developer+Tools"/>
+
+<br><br>
+
+<!-- Animated Floating Tech Stack -->
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
 
 </div>
 
@@ -198,6 +151,68 @@ Tech Arsenal
 </table>
 
 <br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🐍 SNAKE ANIMATION: Contribution graph eaten by snake         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Son-Uchiha/Son-Uchiha/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 👨‍💻 ABOUT ME: Animated terminal code block                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00C2FF" width="100%"/>
+
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;
+About Me
+</h2>
+
+
+```typescript
+class BackendDeveloper {
+  name       = "Shawn Nguyen";
+  role       = "Backend Developer";
+  education  = "Information Technology @ PTIT (3rd year)";
+  
+  languages  = ["TypeScript", "Java", "Python", "C++"];
+  
+  backend    = {
+    primary:   ["NestJS", "Node.js"],
+    learning:  ["Spring Boot", "Express"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    cache:     ["Redis"],
+    queue:     ["BullMQ", "Apache Kafka"],
+    orm:       ["Prisma"]
+  };
+  
+  devops     = ["Docker", "Kubernetes", "AWS", "GitHub Actions"];
+  
+  architecture = [
+    "Microservices", "Event-Driven",
+    "CQRS", "Domain-Driven Design"
+  ];
+
+  motto = () => "Build it right, build it resilient 🔥";
+}
+```
+
+<br clear="both">
+
+<br>
+
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🚀 FEATURED PROJECTS: Cards with custom image                 -->
