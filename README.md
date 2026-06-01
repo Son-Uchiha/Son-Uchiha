@@ -225,11 +225,7 @@ class BackendDeveloper {
 Featured Projects
 </h2>
 
-<div align="center">
 
-<img src="./assets/ecommerce_project.png" alt="E-Commerce Architecture" width="80%"/>
-
-</div>
 
 <br>
 
