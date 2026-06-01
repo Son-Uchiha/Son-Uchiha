@@ -57,7 +57,7 @@ Tech Arsenal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=💻+Languages;🚀+Backend+Frameworks;🗄️+Databases+%26+Storage;⚡+Queue+%26+Messaging;☁️+Cloud+%26+DevOps;🛠+Developer+Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Languages;%F0%9F%9A%80+Backend+Frameworks;%F0%9F%97%84%EF%B8%8F+Databases+%26+Storage;%E2%9A%A1+Queue+%26+Messaging;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps;%F0%9F%9B%A0+Developer+Tools"/>
 
 <br><br>
 
@@ -361,7 +361,7 @@ Currently Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=📖+Apache+Kafka+%E2%80%94+Event+Streaming;📖+Spring+Boot+%E2%80%94+Enterprise+Java;📖+Kubernetes+%E2%80%94+Container+Orchestration;📖+AWS+Cloud+%E2%80%94+Cloud+Architecture;📖+System+Design+%E2%80%94+Scalable+Patterns;📖+Event-Driven+Architecture;📖+CI%2FCD+Pipelines+%E2%80%94+DevOps"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%96+Apache+Kafka+%E2%80%94+Event+Streaming;%F0%9F%93%96+Spring+Boot+%E2%80%94+Enterprise+Java;%F0%9F%93%96+Kubernetes+%E2%80%94+Container+Orchestration;%F0%9F%93%96+AWS+Cloud+%E2%80%94+Cloud+Architecture;%F0%9F%93%96+System+Design+%E2%80%94+Scalable+Patterns;%F0%9F%93%96+Event-Driven+Architecture;%F0%9F%93%96+CI%2FCD+Pipelines+%E2%80%94+DevOps"/>
 
 <br><br>
 
@@ -416,7 +416,7 @@ Let's Connect
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+my+repos+if+you+find+them+useful!"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90+Star+my+repos+if+you+find+them+useful!"/>
 
 </div>
 
