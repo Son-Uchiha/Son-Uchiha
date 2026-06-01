@@ -18,27 +18,17 @@
 <!-- 🏷️ BADGES: Profile views + Social links                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Son-Uchiha">
-<img src="https://komarev.com/ghpvc/?username=Son-Uchiha&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&labelColor=0d1117"/>
-</a>
+<a href="https://github.com/Son-Uchiha"><img src="https://komarev.com/ghpvc/?username=Son-Uchiha&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://github.com/Son-Uchiha?tab=followers">
-<img src="https://img.shields.io/github/followers/Son-Uchiha?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/>
-</a>
+<a href="https://github.com/Son-Uchiha?tab=followers"><img src="https://img.shields.io/github/followers/Son-Uchiha?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>
 &nbsp;
-<a href="https://github.com/Son-Uchiha?tab=repositories&sort=stargazers">
-<img src="https://img.shields.io/github/stars/Son-Uchiha?label=Total+Stars&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/>
-</a>
+<a href="https://github.com/Son-Uchiha?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Son-Uchiha?label=Total+Stars&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>
 
 <br><br>
 
-<a href="mailto:uchihason5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-uchihason5-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
+<a href="mailto:uchihason5@gmail.com"><img src="https://img.shields.io/badge/Gmail-uchihason5-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://son-uchiha.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
-</a>
+<a href="https://son-uchiha.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
@@ -57,13 +47,14 @@ Tech Arsenal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Languages;%F0%9F%9A%80+Backend+Frameworks;%F0%9F%97%84%EF%B8%8F+Databases+%26+Storage;%E2%9A%A1+Queue+%26+Messaging;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps;%F0%9F%9B%A0+Developer+Tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%BB+Languages+%26+Frontend;%F0%9F%9A%80+Backend+Frameworks;%F0%9F%97%84%EF%B8%8F+Databases+%26+Storage;%E2%9A%A1+Queue+%26+Messaging;%E2%98%81%EF%B8%8F+Cloud+%26+DevOps;%F0%9F%9B%A0+Developer+Tools"/>
 
 <br><br>
 
-<!-- Animated Floating Tech Stack -->
+<!-- Animated Floating Tech Stack (Hiệu ứng) -->
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
@@ -72,83 +63,27 @@ Tech Arsenal
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
 
+<br><br>
+
+<!-- COMPACT SKILLICONS GRID -->
+<p align="center">
+  <b>💻 Languages & Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,java,python,cpp,c&theme=dark" />
+</p>
+<p align="center">
+  <b>🚀 Backend Frameworks</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,express&theme=dark" />
+</p>
+<p align="center">
+  <b>🗄️ Database & Queue</b><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka&theme=dark" />
+</p>
+<p align="center">
+  <b>☁️ DevOps & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions,git,github,postman,vscode,idea&theme=dark" />
+</p>
+
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-<br>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,cpp,c&theme=dark&perline=3" />
-<br><br>
-<img src="https://img.shields.io/badge/TypeScript-★★★★★-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Java-★★★☆☆-orange?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Python-★★★☆☆-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Backend
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,spring,express&theme=dark&perline=4" />
-<br><br>
-<img src="https://img.shields.io/badge/NestJS-★★★★★-E0234E?style=flat-square&logo=nestjs&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Node.js-★★★★★-43853D?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Spring-★★★☆☆-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=0d1117"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🗄️ Databases & Cache
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark&perline=4" />
-<br><br>
-<img src="https://img.shields.io/badge/MySQL-★★★★★-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Redis-★★★★☆-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Prisma-★★★★★-2D3748?style=flat-square&logo=prisma&logoColor=white&labelColor=0d1117"/>
-
-</td>
-<td align="center" width="50%">
-
-### ☁️ DevOps & Cloud
-<br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,githubactions&theme=dark&perline=5" />
-<br><br>
-<img src="https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/K8s-★★☆☆☆-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/AWS-★★★☆☆-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### ⚡ Queue & Messaging
-<br>
-<img src="https://skillicons.dev/icons?i=redis,kafka&theme=dark&perline=4" />
-<br><br>
-<img src="https://img.shields.io/badge/BullMQ-★★★★★-FF4081?style=flat-square&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Kafka-★★★☆☆-231F20?style=flat-square&logo=apachekafka&logoColor=white&labelColor=0d1117"/>
-
-</td>
-<td align="center" width="50%">
-
-### 🛠 Tools
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark&perline=5" />
-<br><br>
-<img src="https://img.shields.io/badge/Git-★★★★★-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Postman-★★★★☆-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/IntelliJ-★★★★☆-000000?style=flat-square&logo=intellijidea&logoColor=white&labelColor=0d1117"/>
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -344,34 +279,6 @@ Development Focus
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📚 LEARNING: Animated learning roadmap                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=00C2FF" width="100%"/>
-
-<h2>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">&nbsp;
-Currently Learning
-</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=%F0%9F%93%96+Apache+Kafka+%E2%80%94+Event+Streaming;%F0%9F%93%96+Spring+Boot+%E2%80%94+Enterprise+Java;%F0%9F%93%96+Kubernetes+%E2%80%94+Container+Orchestration;%F0%9F%93%96+AWS+Cloud+%E2%80%94+Cloud+Architecture;%F0%9F%93%96+System+Design+%E2%80%94+Scalable+Patterns;%F0%9F%93%96+Event-Driven+Architecture;%F0%9F%93%96+CI%2FCD+Pipelines+%E2%80%94+DevOps"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🎯_2026-Backend%20Internship-00C2FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-Master%20NestJS-E0234E?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-Learn%20Spring%20Boot-6DB33F?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-Microservices-7B42BC?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-Docker%20%26%20K8s-2496ED?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-Kafka-231F20?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🎯_2026-AWS-FF9900?style=for-the-badge&labelColor=0d1117"/>
-
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🤝 CONNECT: Animated contact section                          -->
@@ -386,17 +293,11 @@ Let's Connect
 
 <div align="center">
 
-<a href="mailto:uchihason5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-uchihason5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-</a>
+<a href="mailto:uchihason5@gmail.com"><img src="https://img.shields.io/badge/Gmail-uchihason5@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
 <br><br>
-<a href="https://github.com/Son-Uchiha">
-<img src="https://img.shields.io/badge/GitHub-Son--Uchiha-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
+<a href="https://github.com/Son-Uchiha"><img src="https://img.shields.io/badge/GitHub-Son--Uchiha-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 <br><br>
-<a href="https://son-uchiha.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-son--uchiha.github.io-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/>
-</a>
+<a href="https://son-uchiha.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-son--uchiha.github.io-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
