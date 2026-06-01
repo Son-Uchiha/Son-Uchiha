@@ -9,26 +9,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⌨️ TYPING ANIMATION: Multi-line rotating text                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+Hello+World!+I'm+Shawn+%F0%9F%91%8B;%3E+Building+Scalable+Backend+Systems+%F0%9F%9A%80"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%3E+Hello+World!+I'm+Shawn+%F0%9F%91%8B;%3E+Building+Scalable+Backend+Systems+%F0%9F%9A%80;%3E+FE+%E2%80%A2+BE+%E2%80%A2+DevOps+%E2%9A%99%EF%B8%8F"/>
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🏷️ BADGES: Profile views + Social links                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/Son-Uchiha"><img src="https://komarev.com/ghpvc/?username=Son-Uchiha&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://github.com/Son-Uchiha?tab=followers"><img src="https://img.shields.io/github/followers/Son-Uchiha?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>
-&nbsp;
-<a href="https://github.com/Son-Uchiha?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Son-Uchiha?label=Total+Stars&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>
-
+<a href="https://github.com/Son-Uchiha"><img src="https://komarev.com/ghpvc/?username=Son-Uchiha&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge&labelColor=0d1117"/></a>&nbsp;<a href="https://github.com/Son-Uchiha?tab=followers"><img src="https://img.shields.io/github/followers/Son-Uchiha?label=Followers&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>&nbsp;<a href="https://github.com/Son-Uchiha?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Son-Uchiha?label=Total+Stars&style=for-the-badge&color=00C2FF&labelColor=0d1117&logo=github"/></a>
 <br><br>
-
-<a href="mailto:uchihason5@gmail.com"><img src="https://img.shields.io/badge/Gmail-uchihason5-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
-&nbsp;
-<a href="https://son-uchiha.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
+<a href="mailto:uchihason5@gmail.com"><img src="https://img.shields.io/badge/Gmail-uchihason5-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>&nbsp;<a href="https://son-uchiha.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C2FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
